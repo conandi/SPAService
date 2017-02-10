@@ -1,0 +1,21 @@
+PODS:
+  - Ionicons-Swift (2.0.2)
+
+DEPENDENCIES:
+  - Ionicons-Swift (from `https://github.com/tomsterritt/IoniconsSwift`)
+
+EXTERNAL SOURCES:
+  Ionicons-Swift:
+    :git: https://github.com/tomsterritt/IoniconsSwift
+
+CHECKOUT OPTIONS:
+  Ionicons-Swift:
+    :commit: 873d8b5756a1f0b3dfb89dae5d2e30f8b66218ce
+    :git: https://github.com/tomsterritt/IoniconsSwift
+
+SPEC CHECKSUMS:
+  Ionicons-Swift: 761024923c004b05e880d5d613cbbb430ab52ec6
+
+PODFILE CHECKSUM: 379ac7d04b344ff1bb98b05b2fd0b22e005103aa
+
+COCOAPODS: 1.2.0
