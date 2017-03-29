@@ -20,6 +20,7 @@
 		23BEFDBF1E4CF13C00D3B337 /* ScheduleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BEFDBE1E4CF13C00D3B337 /* ScheduleViewController.swift */; };
 		23BEFDC11E4D0BE100D3B337 /* DateCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BEFDC01E4D0BE100D3B337 /* DateCollectionViewCell.swift */; };
 		23BEFDC31E4D0BEB00D3B337 /* TimeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BEFDC21E4D0BEB00D3B337 /* TimeCollectionViewCell.swift */; };
+		D01094511E8C20E7000D5BC9 /* SourceTreeTestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01094501E8C20E7000D5BC9 /* SourceTreeTestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		46F740A8B2D2A3F769C07F8E /* Pods-WellsFargoProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WellsFargoProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-WellsFargoProject/Pods-WellsFargoProject.release.xcconfig"; sourceTree = "<group>"; };
 		7CBCEC266B485D0FD4D77FE4 /* Pods-WellsFargoProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WellsFargoProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WellsFargoProject/Pods-WellsFargoProject.debug.xcconfig"; sourceTree = "<group>"; };
 		8F24FC7608133B96581B3826 /* Pods_WellsFargoProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WellsFargoProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D01094501E8C20E7000D5BC9 /* SourceTreeTestClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SourceTreeTestClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			children = (
 				23BEFDA51E4CC97F00D3B337 /* AppDelegate.swift */,
 				23BEFDA71E4CC97F00D3B337 /* ViewController.swift */,
+				D01094501E8C20E7000D5BC9 /* SourceTreeTestClass.swift */,
 				2330E2671E4DA52B009F16B5 /* ReservationCollectionViewCell.swift */,
 				23BEFDBA1E4CCFDC00D3B337 /* SPAViewController.swift */,
 				23BEFDBE1E4CF13C00D3B337 /* ScheduleViewController.swift */,
@@ -233,6 +236,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D01094511E8C20E7000D5BC9 /* SourceTreeTestClass.swift in Sources */,
 				23BEFDBF1E4CF13C00D3B337 /* ScheduleViewController.swift in Sources */,
 				23BEFDAE1E4CC97F00D3B337 /* WellsFargoProject.xcdatamodeld in Sources */,
 				23BEFDBB1E4CCFDC00D3B337 /* SPAViewController.swift in Sources */,

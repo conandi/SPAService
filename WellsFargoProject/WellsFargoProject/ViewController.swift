@@ -20,8 +20,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         prepareData()
         prepareView()
-        print("Test for new branch!!")
-        // test for source tree push, commit and branch
 
     }
 
